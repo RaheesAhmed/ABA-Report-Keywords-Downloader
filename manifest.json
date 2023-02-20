@@ -1,0 +1,13 @@
+{
+    "name": "ABA Report Keywords Downloader",
+    "version": "1.0",
+    "author":"Rahees Ahmed",
+    "manifest_version": 2,
+    "description": "Download keywords from ABA reports in Amazon Seller-Central.",
+    "browser_action": {
+      "default_popup": "popup.html",
+      "default_title": "ABA Report Keywords Downloader"
+    },
+    "permissions": ["activeTab"]
+  }
+  
